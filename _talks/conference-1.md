@@ -8,6 +8,6 @@ date: 01/04/2017
 location: "Cartagena - Colombia"
 ---
 
-[More information here](http://andimec.github.io/files/talks/conference-1)
+[View the material of this presentation here](http://andimec.github.io/files/talks/conference-1)
 
 description 8
