@@ -10,13 +10,15 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
+-----
+
 * Ph.D. Programme in Physics and Space Sciences, University of Granada, 2022
 * MSc. Mechanical Engineering, Polytechnic University of Valencia, 2019
 * BSc. Mechanical Engineering, National University of Colombia, 2016
 
 Work experience 
-=====
+-----
+
 ## Academic and Research Staff
 *Feb 2022 to Current: University of Granada, Spain.*
 * Project: Multipurpose Vacuum Accidental Scenarios (MuVacAS) Experimental Setup
