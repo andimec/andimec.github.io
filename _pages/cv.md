@@ -64,36 +64,49 @@ redirect_from:
 *Aug 2015 to Aug 2017: Central University, Colombia*
 * Main activity: Instrumentation of a rowing machine using LabVIEW for data acquisition.
 
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+# Skills
+-----
+* Personal Skills: Resilience, groups and time management, teamwork, lifelong learning, critical thinking, problem-solving, decision-making, leadership, multicultural teams and discipline.
+* CAD Software
+	* SolidWorks (3DS) – *4 years of experience*
+	* NX (Siemens) – *3 years of experience*
+	* Catia V5 (3DS) – *2 years of experience*
+* FE structural and CFD Software
+	* ANSYS Mechanical – *6 years of experience*
+	* ANSYS Fluent (CFD) – *3 years of experience*
+	* FEMM (Magnetic Simulation) – *1 year experience*
+* Vacuum modelling:
+	* MolFlow+ (CERN) – *1 year experience*
+* Numerical programming:
+	* Matlab, Octave (Code, Simulink, SIMSCAPE) – *6 years of experience*
+	* Scilab, ROOT, Fortran - *1 year of experience*
+* Material Selector in mechanical design:
+	* Granta Selector (ANSYS) - *2 year of experience*
+* Control and DaQ programing:
+	* LabVIEW - *2 year of experience*
+	* Epics - *2 months of experience*
 
-Courses
-======
+# Courses
+-----
 
-Publications
-======
+# Publications
+-----
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
+# Talks
+------
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
+# Teaching
+------
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+# Service and leadership
 ======
 * Currently signed in to 43 different slack teams
