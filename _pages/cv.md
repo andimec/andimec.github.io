@@ -89,48 +89,70 @@ redirect_from:
 # Extracurricular activities
 -----
 * The 10th Open Collaboration Meeting on Superconducting Linacs for High Power Proton Beams, in Granada, Spain.
+
 Mar 2024
+
 Topics: RF and Superconducting; installation, commissioning and operation; machine physics; Diagnostics and operation; Target aspects.
 
 * 1st Fusion Winter School, Grenoble, FRANCE.
+
 Dic 2023  
 Topics: Stellarators Plasma Physics, Liquid Metals Systems, and High-Temperature Superconductors.
 
 * Epics Training, OSPREY DSC, remote in-person course, U. S. A.
+
 Nov 2023
+
 Full Stack Control Solutions, EPICS Process Database, Phoebus, ChannelFinder, Archive Appliance.
 
 * 20 IUVSTA School on Vacuum Gas Dynamics, Societé française du vide, FRANCE.
+
 Sep 2023 
 
 * 2023 PhD Fusion Event on Lausanne, FuseNet , SWITZERLAND.
+
+Aug 2023
+
 Pecha Kucha presentation + Poster + Visit to Swiss Plasma Center (TVC, TORPEX, RAID)
 
 * IPAC 24, 14th International Particle Accelerator Conference, Venice, ITALY.
 May 2023 
+
 Grant Student + Poster + Paper Proceeding: Multipurpose Vacuum Accident Scenarios (MuVacAS) 
 Prototype for the IFMIF-DONES Linear Accelerator. DOI: 2010.18429/JACoW-IPAC2023-THPA156
 
-*XCITECH – DONES: Radiation effects on fusion structural materials, and IFMIF-DONES in-depth, SPAIN.
+* XCITECH – DONES: Radiation effects on fusion structural materials, and IFMIF-DONES in-depth, SPAIN.
+
 April 2023 
+
 Organizer + Assistant + Poster.
 
-*JUAS 2023, Course 2: The Technology & Applications of Particle Accelerators (167 Hours), FRANCE.
+* JUAS 2023, Course 2: The Technology & Applications of Particle Accelerators (167 Hours), FRANCE.
+
 Feb 2023 
+
 Visits: CERN: Linac4 + AD ELENA + Clear + Thin film coating facilities. Bergoz instrumentation, Geneva 
 Hospital, Paul Scherrer Institute (PSI): SLS, SwissFEL, ProScan, HIPA.
 
-*Aug 2021 13 International Symposium on Linear Drives for Industrial Application, Online.
+* Aug 2021 13 International Symposium on Linear Drives for Industrial Application, Online.
+
 Paper: Validation of a Linear Motor for Hyperloop Applications using a 3-axis Static Test Bench. 
 DOI: 10.1109/LDIA49489.2021.9505759
 
-*Hyperloop Pod Competition IV (Space X), U. S. A.
+* Hyperloop Pod Competition IV (Space X), U. S. A.
+
 Jul 2019 
+
 Presentation: Prototype of hyperloop Turian. Speed expectation: 450 km/h.
+
 * VIII - International Congress of Mechanical Engineering, COLOMBIA.
+
 Sep 2017 
+
 Paper: Indoor Rowing Machine Instrumentation for 3D Dynamic Analysis.
+
 * CNC - Operation and Programming (Basic and Advanced) - Course: 45 Hours, COLOMBIA.
+
 Jun 2007
 
 # Publications
