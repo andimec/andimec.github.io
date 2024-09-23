@@ -1,0 +1,20 @@
+---
+title: "Numerical Methods and Simulation"
+collection: teaching
+type: "Undergraduate course"
+permalink: /teaching/2024-spring-teaching
+venue: "University of Granada, Department of Atomic, Molecular, and Nuclear Physics"
+date: 2024-05-01
+location: "Granada, Spain"
+---
+
+Sessions
+------
+3 ECTS
+1. Interpolation and approximation of functions
+2. Numerical integration
+3. Systems of linear equations 
+4. Searching for zeros of functions  
+5. Ordinary differential equations 
+6. Modelling of systems
+Programming language: Fortran.
