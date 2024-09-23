@@ -1,5 +1,5 @@
 ---
-title: "Assistant Teacher"
+title: "Mechanical drawings"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2016-spring-teaching
