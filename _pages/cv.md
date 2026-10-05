@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "CV"
+description: "Professional profile and engineering experience of Anderson Sabogal, Mechanical and Systems Engineer specializing in vacuum, accelerator technology, fusion, safety and experimental R&D."
 permalink: /cv/
 author_profile: false
 redirect_from:
