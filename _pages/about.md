@@ -1,8 +1,9 @@
 ---
 permalink: /
-title: "Anderson Sabogal"
+title: ""
+description: "Mechanical and Systems Engineer at IFMIF-DONES working on accelerator vacuum systems, fusion engineering, safety, controls and experimental R&D."
 excerpt: "Mechanical and Systems Engineer working at the intersection of vacuum technology, accelerator systems, fusion engineering, safety and experimental R&D."
-author_profile: true
+author_profile: false
 redirect_from:
   - /about/
   - /about.html
