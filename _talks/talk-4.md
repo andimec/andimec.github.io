@@ -7,5 +7,3 @@ venue: "DONES Meeting #07"
 date: 2022-09-01
 location: "Granada - Spain"
 ---
-
-[View the presentation material](/files/talks/talk-4)
