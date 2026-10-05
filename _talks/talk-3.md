@@ -7,5 +7,3 @@ venue: "Semana de la Ciencia 2022"
 date: 2022-11-01
 location: "Granada - Spain"
 ---
-
-[View the presentation material](/files/talks/talk-3)
