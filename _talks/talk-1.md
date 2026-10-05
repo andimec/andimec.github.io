@@ -7,5 +7,3 @@ venue: "FuseNet PhD Event 2023 - EPFL"
 date: 2023-08-01
 location: "Lausanne - Switzerland"
 ---
-
-[View the presentation material](/files/talks/talk-1)
