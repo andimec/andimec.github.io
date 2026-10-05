@@ -1,25 +1,83 @@
 ---
 permalink: /
-title: "About me:"
-excerpt: "An humanist and passionate engineer with a deep-seated fascination for science."
+title: "Anderson Sabogal"
+excerpt: "Mechanical and Systems Engineer working at the intersection of vacuum technology, accelerator systems, fusion engineering, safety and experimental R&D."
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-Anderson Sabogal holds a degree in Mechanical Engineering from the National University of Colombia. In 2017 he started a master's in the same field at the UPV, Valencia (Spain). During the master’s courses, he participated in two editions of the Hyperloop Pod Competition organized in Los Angeles, California, by the aerospace company SpaceX (2018-2019) . In the first edition, he was a mechanical designer, and later he took on the role of technical director; in the Hyperloop UPV team. For two consecutive years the team finished within the top 10 places, among more than 500 participating universities.
-Starting in 2019, he spent 28 months as an R&D mechanical engineer in Zeleros, a Spanish company responsible of develop Hyperloop technologies. During the same period, he started a Masters of Advanced Physics at the University of Valencia, where he look at Deep Technology that could be implemented in Hyperloop. Consequently, he became interested in topics related to energy, in particular nuclear fusion, and therefore, at the beginning of 2022’ he joined the Department of Nuclear, Atomic, and Molecular Physic, at the University of Granada, where now is researching his Ph.-d. for the IFMIF-DONES project (International Fusion Materials Irradiation Facility - Demo Oriented Neutron Source), a particle accelerator able to provide the irradiation needed to get commercial fusion in 2040.
+# Mechanical & Systems Engineer
 
-Projects
-------
-**IFMIF-DONES**
+**Vacuum Systems · Accelerator Technology · Fusion Engineering · Safety · Experimental R&D**
 
-The International Fusion Materials Irradiation Facility – Demo Oriented NEutron Source (IFMIF-DONES) is a single-sited novel research infrastructure for testing, validation and qualification of the materials to be used in future fusion power plants like DEMO (a demonstration fusion reactor prototype). [Website](https://ifmif-dones.es/es/) 
-My role on this project was on the reseach of: Simulation and Experimental Study of Vacuum-Loss Accidental Scenarios in the IFMIF-DONES Accelerator using the MuVacAS Facility.
+I am a mechanical and systems engineer working at the intersection of **fusion research, particle accelerator technology, vacuum engineering and experimental systems**.
 
-**Hyperloop - Zeleros**
+My current work is focused on the engineering and safety of accelerator vacuum systems within the **IFMIF-DONES** project, including experimental validation of vacuum-loss accident scenarios, mitigation systems, instrumentation, control and system integration. My research is supported by the **MuVacAS** experimental facility, developed to reproduce and study representative vacuum accident scenarios under controlled experimental conditions.
 
-Hyperloop is the world’s fastest land transport system for fully electric and automated intercity travel. Hyperloop capsules move levitating at high speeds inside a network of low-pressure tubes.
-[Website](https://zeleros.com/). 
-My role on this project was as R&D mechanical engineer. 
+I am currently also involved in an international engineering assignment in **Japan**, supporting accelerator injector knowledge transfer and safety-related activities.
+
+## What I work on
+
+### Vacuum & accelerator systems
+- Accelerator vacuum systems and vacuum dynamics
+- Loss-of-vacuum accident scenarios
+- Fast Safety Isolation Valves and mitigation strategies
+- Differential vacuum systems and controlled gas injection
+- Vacuum instrumentation and diagnostics
+- Experimental validation and commissioning
+
+### Safety & systems engineering
+- Reference accident scenarios
+- Safety-oriented system design
+- Interlocks and protection concepts
+- Experimental test definition and validation
+- Engineering interfaces and system integration
+
+### Controls, simulation & data
+- EPICS and Phoebus
+- LabVIEW and data acquisition
+- Python, MATLAB and Octave
+- Molflow+ vacuum modelling
+- ANSYS Fluent and multiphysics simulation
+- Experimental data analysis
+- Digital twins and AI-assisted control research
+
+## Selected engineering projects
+
+**IFMIF-DONES**  
+Fusion materials irradiation research infrastructure based on a high-power linear accelerator. My work focuses on accelerator vacuum systems, safety engineering, experimental validation and mitigation of vacuum-loss scenarios.
+
+**MuVacAS**  
+Multipurpose Vacuum Accident Scenarios experimental facility developed to investigate vacuum-loss events and mitigation strategies relevant to IFMIF-DONES.
+
+**LIPAc / Injector engineering**  
+International engineering activities in Japan related to injector technology, knowledge transfer and accelerator safety.
+
+**Hyperloop / Zeleros**  
+Before moving into fusion research, I worked on advanced transportation systems, precision mechanical design, experimental test benches and multiphysics engineering.
+
+## Engineering approach
+
+I enjoy working across the complete engineering cycle:
+
+**Requirements → Design → Simulation → Manufacturing → Instrumentation → Integration → Testing → Validation**
+
+My background combines hands-on engineering with research, allowing me to work between detailed technical development and system-level problems.
+
+## Education
+
+- **PhD Programme in Physics and Space Sciences**, University of Granada
+- **MSc Mechanical Engineering**, Universitat Politècnica de València
+- **BSc Mechanical Engineering**, National University of Colombia
+
+## Connect
+
+- [ORCID](https://orcid.org/0000-0002-9911-9786)
+- [LinkedIn](https://www.linkedin.com/in/andimec/)
+- [GitHub](https://github.com/andimec)
+- [Curriculum Vitae](/cv/)
+- [Research & Engineering Projects](/portfolio/)
+
+> This website is a technical portfolio. Detailed information that could be sensitive to the operation or security of research infrastructures is intentionally omitted.
