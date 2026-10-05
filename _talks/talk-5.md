@@ -7,5 +7,3 @@ venue: "MATLAB EXPO 2018"
 date: 2018-05-01
 location: "Madrid - Spain"
 ---
-
-[View the presentation material](/files/talks/talk-5)
