@@ -7,5 +7,3 @@ venue: "Noche de los Investigadores 2023"
 date: 2023-08-01
 location: "Granada - Spain"
 ---
-
-[View the presentation material](/files/talks/talk-2)
