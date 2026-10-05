@@ -3,8 +3,6 @@ title: "Controls, EPICS & Digital Engineering"
 excerpt: "Control, data-acquisition and digital-engineering work connecting physical experimental systems with software."
 collection: portfolio
 permalink: /portfolio/controls-digital-engineering/
-header:
-  teaser: /images/Anderson_LK.png
 ---
 
 ## Overview
