@@ -7,5 +7,3 @@ venue: "14th International Particle Accelerator Conference"
 date: 2023-05-01
 location: "Venice - Italy"
 ---
-
-[View the presentation material](/files/talks/poster-2)
