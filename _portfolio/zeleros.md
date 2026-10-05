@@ -3,6 +3,9 @@ title: "Zeleros. Experimental Mechanical Engineering"
 excerpt: "R&D mechanical engineering for advanced magnetic propulsion and experimental test infrastructure."
 collection: portfolio
 permalink: /portfolio/zeleros/
+redirect_from:
+  - /portfolio/portfolio-7/
+  - /portfolio/portfolio-8/
 header:
   teaser: /images/CADSTB.png
 ---
