@@ -3,8 +3,6 @@ title: "LIPAc / Injector. International Accelerator Engineering"
 excerpt: "International engineering and knowledge-transfer activities related to accelerator injector technology and safety."
 collection: portfolio
 permalink: /portfolio/lipac-injector/
-header:
-  teaser: /images/CADSTB.png
 ---
 
 ## Overview
