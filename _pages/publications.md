@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "Publications"
+title: "Publications & Research Outputs"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+My research outputs cover **vacuum engineering, accelerator systems, experimental validation, mechanical engineering and advanced control**.
+
+For the most complete and current bibliographic record, see my [ORCID profile](https://orcid.org/0000-0002-9911-9786).
 
 {% include base_path %}
 
