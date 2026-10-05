@@ -1,13 +1,27 @@
 ---
 title: "Research & Engineering"
 permalink: /portfolio/
-author_profile: true
+author_profile: false
 ---
 
-# Research & Engineering Projects
+<div class="section-intro">
+  <p>Selected engineering and research projects spanning <strong>fusion, particle accelerators, vacuum technology, safety, controls, simulation and experimental R&D</strong>.</p>
+</div>
 
-A selection of engineering and research projects spanning **fusion, particle accelerators, vacuum technology, safety, controls, simulation and experimental R&D**.
-
+<div class="portfolio-grid">
 {% for post in site.portfolio %}
-  {% include archive-single.html %}
+  <article class="portfolio-card">
+    {% if post.header.teaser %}
+      <a href="{{ post.url }}" class="portfolio-card__image">
+        <img src="{{ post.header.teaser }}" alt="{{ post.title | escape }}" loading="lazy">
+      </a>
+    {% endif %}
+    <div class="portfolio-card__body">
+      <p class="portfolio-card__eyebrow">PROJECT</p>
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      {% if post.excerpt %}<p>{{ post.excerpt }}</p>{% endif %}
+      <a href="{{ post.url }}" class="portfolio-card__link">View project →</a>
+    </div>
+  </article>
 {% endfor %}
+</div>
