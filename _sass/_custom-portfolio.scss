@@ -133,7 +133,7 @@
   overflow: hidden;
   border: 1px solid $border-color;
   border-radius: $border-radius;
-  background: #fff;
+  background: $background-color;
   transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
