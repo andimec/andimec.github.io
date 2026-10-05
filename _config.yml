@@ -3,7 +3,7 @@ locale: "en-US"
 title: "Anderson Sabogal"
 title_separator: "-"
 name: &name "Anderson Sabogal"
-description: &description "Mechanical and Systems Engineer specializing in vacuum systems, accelerator technology, fusion engineering, safety and experimental R&D."
+description: &description "Mechanical and Systems Engineer at IFMIF-DONES specializing in accelerator vacuum systems, fusion engineering, safety, controls and experimental R&D."
 url: https://andimec.github.io
 baseurl: ""
 repository: "andimec/andimec.github.io"
@@ -27,12 +27,12 @@ alexa_site_verification:
 yandex_site_verification:
 
 twitter:
-  username: &twitter
+  username:
 facebook:
   username:
   app_id:
   publisher:
-og_image:
+og_image: "Anderson_LK.png"
 
 social:
   type: "Person"
@@ -61,7 +61,6 @@ author:
   github: "andimec"
   linkedin: "andimec"
   orcid: "https://orcid.org/0000-0002-9911-9786"
-  twitter: "https://twitter.com/andimec_23"
 
 include:
   - .htaccess
@@ -104,7 +103,6 @@ highlighter: rouge
 lsi: false
 incremental: false
 excerpt_separator: "\n\n"
-
 kramdown:
   input: GFM
   hard_wrap: false
