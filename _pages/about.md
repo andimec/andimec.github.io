@@ -39,26 +39,10 @@ I am also involved in an international engineering assignment in **Japan**, supp
 ## Featured projects
 
 <div class="home-projects">
-  <a href="/portfolio/muvacas/" class="home-project">
-    <span class="home-project__label">Experimental R&D</span>
-    <h3>MuVacAS</h3>
-    <p>Experimental platform for vacuum-loss accident scenarios and mitigation strategies relevant to IFMIF-DONES.</p>
-  </a>
-  <a href="/portfolio/ifmif-dones/" class="home-project">
-    <span class="home-project__label">Fusion infrastructure</span>
-    <h3>IFMIF-DONES</h3>
-    <p>Accelerator vacuum and safety engineering for a major fusion research infrastructure.</p>
-  </a>
-  <a href="/portfolio/lipac-injector/" class="home-project">
-    <span class="home-project__label">International engineering</span>
-    <h3>LIPAc / Injector</h3>
-    <p>Knowledge transfer, injector technology and accelerator safety activities in Japan.</p>
-  </a>
-  <a href="/portfolio/controls-digital-engineering/" class="home-project">
-    <span class="home-project__label">Digital engineering</span>
-    <h3>Controls & Digital Engineering</h3>
-    <p>EPICS, Phoebus, data acquisition, digital twins and advanced control research.</p>
-  </a>
+  <a href="/portfolio/muvacas/" class="home-project"><span class="home-project__label">Experimental R&D</span><h3>MuVacAS</h3><p>Experimental platform for vacuum-loss accident scenarios and mitigation strategies relevant to IFMIF-DONES.</p></a>
+  <a href="/portfolio/ifmif-dones/" class="home-project"><span class="home-project__label">Fusion infrastructure</span><h3>IFMIF-DONES</h3><p>Accelerator vacuum and safety engineering for a major fusion research infrastructure.</p></a>
+  <a href="/portfolio/lipac-injector/" class="home-project"><span class="home-project__label">International engineering</span><h3>LIPAc / Injector</h3><p>Knowledge transfer, injector technology and accelerator safety activities in Japan.</p></a>
+  <a href="/portfolio/controls-digital-engineering/" class="home-project"><span class="home-project__label">Digital engineering</span><h3>Controls & Digital Engineering</h3><p>EPICS, Phoebus, data acquisition, digital twins and advanced control research.</p></a>
 </div>
 
 ## Engineering approach
