@@ -7,5 +7,3 @@ venue: "Fusion Winter School"
 date: 2023-12-01
 location: "Grenoble - France"
 ---
-
-[View the presentation material](/files/talks/poster-1)
