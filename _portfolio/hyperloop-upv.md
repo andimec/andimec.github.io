@@ -3,6 +3,8 @@ title: "Hyperloop UPV. Technical Direction & Mechanical Design"
 excerpt: "Mechanical engineering and technical leadership in an international Hyperloop competition project."
 collection: portfolio
 permalink: /portfolio/hyperloop-upv/
+redirect_from:
+  - /portfolio/portfolio-9/
 header:
   teaser: /images/SpaceXCompetition.jpg
 ---
