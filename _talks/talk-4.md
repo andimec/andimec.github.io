@@ -1,13 +1,9 @@
 ---
-title: "Simulation and Experimental Study of Accidental Scenarios of Vacuum Failure in the IFMIF-DONES Accelerator using the prototype MuVacAS"
+title: "Simulation and Experimental Study of Vacuum-Failure Accident Scenarios in the IFMIF-DONES Accelerator using the MuVacAS Prototype"
 collection: talks
 type: "Talk"
 permalink: /talks/talk-4
-venue: "Seminario DONES Meeting #07"
-date: 01/09/2022
+venue: "DONES Meeting #07"
+date: 2022-09-01
 location: "Granada - Spain"
 ---
-
-[View the material of this presentation here](http://andimec.github.io/files/talks/talk-4)
-
-description 6
