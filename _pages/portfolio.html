@@ -12,9 +12,7 @@ author_profile: false
 {% for post in site.portfolio %}
   <article class="portfolio-card">
     {% if post.header.teaser %}
-      <a href="{{ post.url }}" class="portfolio-card__image">
-        <img src="{{ post.header.teaser }}" alt="{{ post.title | escape }}" loading="lazy">
-      </a>
+      <a href="{{ post.url }}" class="portfolio-card__image"><img src="{{ post.header.teaser }}" alt="{{ post.title | escape }}" loading="lazy"></a>
     {% endif %}
     <div class="portfolio-card__body">
       <p class="portfolio-card__eyebrow">PROJECT</p>
