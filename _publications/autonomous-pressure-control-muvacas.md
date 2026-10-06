@@ -13,4 +13,4 @@ This work presents a data-driven approach to autonomous pressure control in the 
 
 My contribution is part of the MuVacAS research programme, connecting experimental vacuum engineering with data-driven modelling, digital twins and advanced control.
 
-[Paper on arXiv](https://arxiv.org/abs/2512.15521)
+[Read the paper on arXiv](https://arxiv.org/abs/2512.15521)
