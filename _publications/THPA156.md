@@ -1,16 +1,21 @@
 ---
-title: "Multipurpose Vacuum Accident Scenarios (MuVacAS) prototype for the IFMIF-DONES linear accelerator."
+title: "Multipurpose Vacuum Accident Scenarios (MuVacAS) Prototype for the IFMIF-DONES Linear Accelerator"
 collection: publications
-permalink: /publication/THPA156
-excerpt: 'Presentation of the prototype MuVacAS at the International Particle Accelerator Conference IPAC 2023'
-date: 01/09/2023
-venue: 'JACoW Publishing'
-paperurl: 'http://andimec.github.io/files/THPA156.pdf'
-citation: 'A. Sabogal et al... &quot;Multipurpose Vacuum Accident Scenarios (MuVacAS) prototype for the IFMIF-DONES linear accelerator&quot;.. in Proc. IPAC&apos;23.. Venice.. Italy.. May 2023.. pp. 4324-4327. doi:10.18429/JACoW-IPAC2023-THPA156'
+permalink: /publication/THPA156/
+excerpt: "Experimental prototype for studying vacuum-loss accident scenarios in the IFMIF-DONES accelerator."
+date: 2023-05-01
+venue: "14th International Particle Accelerator Conference, IPAC 2023"
+paperurl: "/files/THPA156.pdf"
+citation: "A. Sabogal et al. Multipurpose Vacuum Accident Scenarios (MuVacAS) Prototype for the IFMIF-DONES Linear Accelerator. Proceedings of IPAC'23, Venice, Italy, 2023, pp. 4324-4327. DOI: 10.18429/JACoW-IPAC2023-THPA156."
 ---
 
-<a href='http://andimec.github.io/files/THPA156.pdf'>Download paper here</a>
+This paper presents the MuVacAS prototype and its role in the experimental study of vacuum-loss accident scenarios and mitigation strategies for the IFMIF-DONES accelerator.
 
-Presentation of the prototype MuVacAS at the International Particle Accelerator Conference IPAC 2023
+[Download PDF](/files/THPA156.pdf)
 
-Recommended citation: A. Sabogal et al "Multipurpose Vacuum Accident Scenarios (MuVacAS) prototype for the IFMIF-DONES linear accelerator".. in Proc. IPAC'23.. Venice.. Italy.. May 2023.. pp. 4324-4327. doi:10.18429/JACoW-IPAC2023-THPA156
+<details>
+<summary><strong>Read the paper in the browser</strong></summary>
+
+<iframe src="/files/THPA156.pdf" width="100%" height="800px" style="border: 1px solid #ddd;" title="MuVacAS IPAC 2023 paper"></iframe>
+
+</details>
