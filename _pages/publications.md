@@ -12,7 +12,7 @@ My research and engineering work spans **vacuum systems, accelerator technology,
 
 The list below combines peer-reviewed journal articles, conference papers, preprints and selected technical research outputs. Where a public document is available, the original PDF or publication record is linked directly.
 
-For the authoritative researcher record, see my [ORCID profile](https://orcid.org/0000-0002-9911-9786).
+For the authoritative researcher record, see my [ORCID researcher profile](https://orcid.org/0000-0002-9911-9786).
 
 {% assign publications_sorted = site.publications | sort: "date" | reverse %}
 {% for post in publications_sorted %}
