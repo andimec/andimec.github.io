@@ -13,4 +13,4 @@ This collaborative paper provides an overview of the IFMIF-DONES accelerator sys
 
 **My contribution:** co-author contribution within the IFMIF-DONES accelerator programme.
 
-[DOI and publication record](https://doi.org/10.1088/1741-4326/ADE267)
+[Read the article](https://doi.org/10.1088/1741-4326/ADE267)
