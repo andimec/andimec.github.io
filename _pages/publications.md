@@ -1,17 +1,20 @@
 ---
 layout: archive
 title: "Publications & Research Outputs"
-description: "Research outputs in vacuum engineering, accelerator systems, experimental validation, mechanical engineering and advanced control."
+description: "Research publications and technical outputs by Anderson Sabogal in vacuum engineering, accelerator technology, fusion, safety, experimental systems and intelligent control."
 permalink: /publications/
 author_profile: false
 ---
 
-My research outputs cover **vacuum engineering, accelerator systems, experimental validation, mechanical engineering and advanced control**.
+# Publications & Research Outputs
 
-For the most complete and current bibliographic record, see my [ORCID profile](https://orcid.org/0000-0002-9911-9786).
+My research and engineering work spans **vacuum systems, accelerator technology, fusion engineering, safety, experimental validation, controls and data-driven modelling**.
 
-{% include base_path %}
+The list below combines peer-reviewed journal articles, conference papers, preprints and selected technical research outputs. Where a public document is available, the original PDF or publication record is linked directly.
 
-{% for post in site.publications reversed %}
+For the authoritative researcher record, see my [ORCID profile](https://orcid.org/0000-0002-9911-9786).
+
+{% assign publications_sorted = site.publications | sort: "date" | reverse %}
+{% for post in publications_sorted %}
   {% include archive-single.html %}
 {% endfor %}
