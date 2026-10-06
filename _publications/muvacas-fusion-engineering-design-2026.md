@@ -13,4 +13,4 @@ This article presents the MuVacAS experimental setup developed to study loss-of-
 
 The work consolidates the experimental facility, its engineering design and its role in validation campaigns.
 
-[DOI and publication record](https://doi.org/10.1016/j.fusengdes.2025.115473)
+[Read the article](https://doi.org/10.1016/j.fusengdes.2025.115473)
