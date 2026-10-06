@@ -1,37 +1,90 @@
 ---
 title: "MuVacAS. Experimental Vacuum Accident Facility"
-excerpt: "Experimental platform for studying vacuum-loss accident scenarios and mitigation strategies relevant to IFMIF-DONES."
+excerpt: "Experimental platform for studying vacuum-loss accident scenarios, pressure transients and mitigation strategies relevant to IFMIF-DONES."
 collection: portfolio
 permalink: /portfolio/muvacas/
 header:
   teaser: /images/muvacas.png
 ---
 
-## Overview
+## Project at a glance
 
-**MuVacAS (Multipurpose Vacuum Accident Scenarios)** is an experimental facility developed to reproduce and investigate representative vacuum-loss events relevant to the IFMIF-DONES accelerator.
+| Item | Details |
+|---|---|
+| **Project** | MuVacAS. Multipurpose Vacuum Accident Scenarios |
+| **Application** | IFMIF-DONES accelerator vacuum and safety |
+| **Role** | Mechanical & Systems Engineer / Experimental Research |
+| **Scope** | Experimental facility design, integration, testing and validation |
+| **Project budget** | **€1.3M** |
+| **Main disciplines** | Vacuum engineering, safety, instrumentation, controls, simulation |
+| **Tools** | Molflow+ · ANSYS Fluent · LabVIEW · EPICS · Python · MATLAB/Octave |
 
-The facility provides a controlled environment for studying pressure transients, gas propagation, vacuum-system response and mitigation strategies.
+## Objective
 
-## Engineering focus
+**MuVacAS** is an experimental facility developed to reproduce and investigate representative vacuum-loss accident scenarios relevant to the IFMIF-DONES accelerator.
 
+The objective is to generate controlled experimental conditions in which pressure transients, gas propagation, vacuum-system response and mitigation strategies can be characterized and compared with analytical and numerical models.
+
+## Engineering scope
+
+The project brings together:
+
+- Vacuum-system design and integration
 - Vacuum-loss accident scenarios
-- Experimental vacuum dynamics
+- Experimental pressure-transient characterization
 - Fast Safety Isolation Valves
 - Differential vacuum systems
-- Controlled gas injection
+- Controlled gas and argon injection
 - Vacuum instrumentation and diagnostics
-- Experimental data acquisition
-- Model-to-experiment validation
+- High-speed data acquisition
+- Experimental-model validation
+- Safety-oriented testing and acceptance activities
 
 ## My contribution
 
-My work has included facility design and integration, experimental campaign definition, instrumentation and control, vacuum modelling, data analysis and engineering validation.
+My work has covered the engineering chain from requirements and concept definition through integration and experimental validation.
 
-The project combines mechanical engineering with vacuum technology, accelerator safety and experimental research.
+Key activities include:
 
-## Methods & tools
+- Definition and planning of experimental campaigns
+- Mechanical and vacuum-system integration
+- Coordination of manufacturing and assembly activities
+- Preparation of factory and site acceptance tests
+- Instrumentation and control-system integration
+- Vacuum modelling and simulation
+- Experimental data analysis
+- Comparison between experimental results and numerical models
+- Engineering documentation and technical reporting
 
-**Molflow+ · ANSYS Fluent · LabVIEW · EPICS · Python · MATLAB/Octave**
+## Engineering methods
 
-> Detailed information that could affect the security or operation of research infrastructure is intentionally omitted.
+The work combines physical experimentation with numerical and data-driven methods. Typical activities include:
+
+**Requirements → Design → Simulation → Manufacturing → Instrumentation → Integration → Testing → Validation**
+
+The project has also provided the experimental basis for subsequent research on differential-pressure control, surrogate modelling and autonomous control.
+
+## Technical documentation
+
+The following material is publicly available and is included here as technical documentation of the project.
+
+### IPAC 2023 paper
+
+**Multipurpose Vacuum Accident Scenarios (MuVacAS) Prototype for the IFMIF-DONES Linear Accelerator**
+
+[Download PDF](/files/THPA156.pdf)
+
+<details>
+<summary><strong>Read the paper in the browser</strong></summary>
+
+<iframe src="/files/THPA156.pdf" width="100%" height="850px" style="border: 1px solid #ddd;" title="MuVacAS IPAC 2023 paper"></iframe>
+
+</details>
+
+## Related research
+
+- [MuVacAS publications](/publications/)
+- [Controls, EPICS & Digital Engineering](/portfolio/controls-digital-engineering/)
+- [IFMIF-DONES. Accelerator Vacuum & Safety Engineering](/portfolio/ifmif-dones/)
+
+> This page focuses on publicly available engineering information. Detailed operational or security-sensitive configuration data is intentionally excluded.
