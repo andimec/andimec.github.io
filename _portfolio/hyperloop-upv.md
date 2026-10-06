@@ -1,6 +1,6 @@
 ---
 title: "Hyperloop UPV. Technical Direction & Mechanical Design"
-excerpt: "Mechanical engineering and technical leadership in an international Hyperloop competition project."
+excerpt: "Mechanical engineering, prototype development and technical leadership in the SpaceX Hyperloop Pod Competition."
 collection: portfolio
 permalink: /portfolio/hyperloop-upv/
 redirect_from:
@@ -9,19 +9,66 @@ header:
   teaser: /images/SpaceXCompetition.jpg
 ---
 
-## Overview
+## Project at a glance
 
-I participated in two editions of the **SpaceX Hyperloop Pod Competition** as part of the Hyperloop UPV team.
+| Item | Details |
+|---|---|
+| **Organisation** | Hyperloop UPV |
+| **Role** | Mechanical Designer → Technical Director |
+| **Period** | 2017–2019 |
+| **Competition** | SpaceX Hyperloop Pod Competition |
+| **Scope** | Vehicle mechanical systems, prototype development and team coordination |
+| **Key disciplines** | Mechanical design, composites, CAD, testing and project management |
 
-I initially worked as a mechanical designer and later became Technical Director, coordinating mechanical development and multidisciplinary engineering activities.
+## Objective
 
-## Engineering experience
+Develop a high-performance Hyperloop vehicle prototype for the international **SpaceX Hyperloop Pod Competition**, integrating mechanical systems within a multidisciplinary student engineering programme.
 
-- Mechanical system design
-- CAD and structural engineering
-- Composite structures
-- Multidisciplinary coordination
-- Prototype development
-- Testing and competition preparation
+## My contribution
 
-The project provided early experience in high-performance engineering, rapid development and technical leadership.
+I participated in two competition editions. I initially worked as a mechanical designer and subsequently took responsibility as Technical Director.
+
+Key responsibilities included:
+
+- Mechanical architecture and system design
+- CAD development
+- Composite-structure design
+- Integration of mechanical subsystems
+- Technical coordination of multidisciplinary work
+- Prototype development and hands-on assembly
+- Test preparation and competition readiness
+- Technical decision-making under schedule constraints
+
+## Development
+
+### Vehicle design
+
+<img src="/images/turianDesign.png" alt="Hyperloop UPV Turian vehicle design" loading="lazy">
+
+### Prototype
+
+<img src="/images/turianReal.png" alt="Hyperloop UPV Turian prototype" loading="lazy">
+
+### Competition
+
+<img src="/images/SpaceXCompetition.jpg" alt="Hyperloop Pod Competition" loading="lazy">
+
+## Technical documentation
+
+### Hyperloop braking-system design
+
+The project also produced a detailed design document for the vehicle braking system.
+
+[Download technical document](/files/CIMM2019.pdf)
+
+<details>
+<summary><strong>Read the document in the browser</strong></summary>
+
+<iframe src="/files/CIMM2019.pdf" width="100%" height="850px" style="border: 1px solid #ddd;" title="Hyperloop UPV braking system document"></iframe>
+
+</details>
+
+## Outcome
+
+The experience developed my early expertise in mechanical systems engineering, rapid prototyping, multidisciplinary coordination and technical leadership in an international engineering competition.
+
