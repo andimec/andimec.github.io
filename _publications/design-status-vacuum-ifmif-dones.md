@@ -13,4 +13,4 @@ This paper describes the design status of the IFMIF-DONES accelerator vacuum sys
 
 **My contribution:** conceptualisation and technical review related to the accelerator vacuum system.
 
-[DOI and publication record](https://doi.org/10.1016/j.vacuum.2025.114091)
+[Read the article](https://doi.org/10.1016/j.vacuum.2025.114091)
