@@ -11,4 +11,4 @@ citation: "Toro, A. S. V.; Garzón, H. D. B.; Sabogal, A. S. P.; Wilches, S. T.;
 
 The work describes the adaptation and instrumentation of a rowing machine for biomechanical analysis and applications involving users with spinal cord injury.
 
-[Publication page](https://jci.uniautonoma.edu.co/jci-12-2020-6.html)
+[Read the publication](https://jci.uniautonoma.edu.co/jci-12-2020-6.html)
