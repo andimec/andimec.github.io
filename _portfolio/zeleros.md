@@ -77,4 +77,4 @@ The developed test infrastructure enabled controlled characterization of the thr
 
 The experimental campaign demonstrated low deviation between experimental and simulated force values, supporting the use of the test-bench methodology for validation of the propulsion system.
 
-Related publication: [Validation of a Linear Motor for Hyperloop Applications using a 3-axis Static Test Bench](/publication/ValidationLinearMotor)
+Related publication: [Read the peer-reviewed paper](/publication/ValidationLinearMotor)
