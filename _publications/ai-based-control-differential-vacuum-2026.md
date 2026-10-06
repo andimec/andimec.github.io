@@ -13,4 +13,4 @@ This open-access article presents an AI-based approach to differential-vacuum co
 
 **My contribution:** engineering and experimental context from the MuVacAS vacuum-control programme.
 
-[DOI and open-access article](https://doi.org/10.1007/s41781-026-00186-3)
+[Read the open-access article](https://doi.org/10.1007/s41781-026-00186-3)
