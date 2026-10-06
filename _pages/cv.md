@@ -150,7 +150,7 @@ The detailed project portfolio provides the technical depth behind the experienc
 # Education
 
 - **PhD Programme in Physics and Space Sciences**, University of Granada, 2022 - present
-- **MSc Mechanical Engineering**, Universitat Politècnica de València, 2019. [Thesis record in RiuNet](https://riunet.upv.es/entities/publication/7b24fed3-e661-4435-ae1c-dcd8c7e549cf)
+- **MSc Mechanical Engineering**, Universitat Politècnica de València, 2019. [Read the Master's thesis](https://riunet.upv.es/handle/10251/130498)
 - **BSc Mechanical Engineering**, National University of Colombia, 2016
 
 # Selected Research Outputs
@@ -181,6 +181,6 @@ See the [complete Publications](/publications/) and [Talks](/talks/) sections fo
 
 # Links
 
-- [ORCID](https://orcid.org/0000-0002-9911-9786)
-- [LinkedIn](https://www.linkedin.com/in/andimec/)
-- [GitHub](https://github.com/andimec)
+- [ORCID profile](https://orcid.org/0000-0002-9911-9786)
+- [LinkedIn profile](https://www.linkedin.com/in/andimec/)
+- [GitHub profile](https://github.com/andimec)
