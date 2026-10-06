@@ -1,16 +1,21 @@
 ---
-title: "Overview of IFMIF-DONES diagnostics: Requirements and techniques."
+title: "Overview of IFMIF-DONES Diagnostics: Requirements and Techniques"
 collection: publications
-permalink: /publication/overview_Diagnostics
-excerpt: 'The IFMIF-DONES Facility is a unique first-class scientific infrastructure whose construction is foreseen in Granada.. Spain.. in the coming years. Strong integration efforts are being made at the current project phase aiming at harmonizing the ongoing design of the different and complex Systems of the facility. The consolidation of the Diagnostics and Instrumentation.. transversal across many of them.. is a key element of this purpose. A top-down strategy is proposed for a systematic Diagnostics Review and Requirement definition.. putting emphasis in the one-of-a-kind instruments necessary by the operational particularities of some of the Systems.. as well as to the harsh environment that they shall survive. In addition.. other transversal aspects such as the ones related to Safety and Machine Protection and their respective requirements shall be also considered. The goal is therefore to advance further and solidly in the respective designs.. identify problems in advance.. and steer the Diagnostics development and validation campaigns that will be required. The present work provides an overview of this integration strategy as well as a description of some of the most challenging Diagnostics and Instruments within the facility.. including several proposed techniques currently under study.'
-date: 01/06/2023
-venue: 'Fusion Design'
-paperurl: 'http://andimec.github.io/files/overview_Diagnostics.pdf'
-citation: 'Torregrosa-Martin; C.; Ibarra; A.; Aguilar; J.; Ambi; F.; Arranz; F.; Arbeiter; F.; ... &amp; Zsakai; A. (2023). Overview of IFMIF-DONES diagnostics: Requirements and techniques.Fusion Engineering and Design;191; 113556.'
+permalink: /publication/overview_Diagnostics/
+excerpt: "Overview of the diagnostic and instrumentation integration strategy for IFMIF-DONES."
+date: 2023-06-01
+venue: "Fusion Engineering and Design, 191, 113556"
+paperurl: "/files/overview_Diagnostics.pdf"
+citation: "C. Torregrosa-Martin et al. (2023). Overview of IFMIF-DONES diagnostics: Requirements and techniques. Fusion Engineering and Design, 191, 113556."
 ---
 
-<a href='http://andimec.github.io/files/overview_Diagnostics.pdf'>Download paper here</a>
+This work presents an overview of the integration strategy for diagnostics and instrumentation across the IFMIF-DONES facility, including requirements related to operation, safety and machine protection.
 
-The IFMIF-DONES Facility is a unique first-class scientific infrastructure whose construction is foreseen in Granada.. Spain.. in the coming years. Strong integration efforts are being made at the current project phase aiming at harmonizing the ongoing design of the different and complex Systems of the facility. The consolidation of the Diagnostics and Instrumentation.. transversal across many of them.. is a key element of this purpose. A top-down strategy is proposed for a systematic Diagnostics Review and Requirement definition.. putting emphasis in the one-of-a-kind instruments necessary by the operational particularities of some of the Systems.. as well as to the harsh environment that they shall survive. In addition.. other transversal aspects such as the ones related to Safety and Machine Protection and their respective requirements shall be also considered. The goal is therefore to advance further and solidly in the respective designs.. identify problems in advance.. and steer the Diagnostics development and validation campaigns that will be required. The present work provides an overview of this integration strategy as well as a description of some of the most challenging Diagnostics and Instruments within the facility.. including several proposed techniques currently under study.
+[Download PDF](/files/overview_Diagnostics.pdf)
 
-Recommended citation: Torregrosa-Martin; C.; Ibarra; A.; Aguilar; J.; Ambi; F.; Arranz; F.; Arbeiter; F.; ... & Zsakai; A. (2023). Overview of IFMIF-DONES diagnostics: Requirements and techniques.Fusion Engineering and Design;191; 113556.
+<details>
+<summary><strong>Read the paper in the browser</strong></summary>
+
+<iframe src="/files/overview_Diagnostics.pdf" width="100%" height="800px" style="border: 1px solid #ddd;" title="IFMIF-DONES diagnostics paper"></iframe>
+
+</details>

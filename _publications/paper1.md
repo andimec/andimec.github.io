@@ -1,16 +1,14 @@
 ---
-title: "Diseno para la adaptacion e instrumentacion de una maquina de remo a ser usada en sujetos con lesion medular"
+title: "Diseño para la adaptación e instrumentación de una máquina de remo a ser usada en sujetos con lesión medular"
 collection: publications
-permalink: /publication/paper1
-excerpt: 'Description paper'
-date: 01/08/2020
-venue: 'Journal de Ciencia e Ingenieria'
-paperurl: 'https://jci.uniautonoma.edu.co/jci-12-2020-6.html'
-citation: 'Toroa; A. S. V.; Garzon; H. D. B.; Sabogal; A. S. P.; Wilchesc; S. T.; Latorref; D. O.; &amp; Ramirez-Martinez; A. M. (2020). Diseño para la adaptación e instrumentación de una maquina de remo a ser usada en sujetos con lesion medular. Journal de Ciencia e Ingenieria; 12(1).'
+permalink: /publication/paper1/
+excerpt: "Design and instrumentation of a rowing machine for applications involving users with spinal cord injury."
+date: 2020-08-31
+venue: "Journal de Ciencia e Ingeniería, 12(1)"
+paperurl: "https://doi.org/10.46571/jci.2020.1.6"
+citation: "Toro, A. S. V.; Garzón, H. D. B.; Sabogal, A. S. P.; Wilches, S. T.; Latorre, D. O.; & Ramírez-Martínez, A. M. (2020). Diseño para la adaptación e instrumentación de una máquina de remo a ser usada en sujetos con lesión medular. Journal de Ciencia e Ingeniería, 12(1). DOI: 10.46571/jci.2020.1.6."
 ---
 
-<a href='https://jci.uniautonoma.edu.co/jci-12-2020-6.html'>Download paper here</a>
+The work describes the adaptation and instrumentation of a rowing machine for biomechanical analysis and applications involving users with spinal cord injury.
 
-Description paper
-
-Recommended citation: Toroa; A. S. V.; Garzon; H. D. B.; Sabogal; A. S. P.; Wilchesc; S. T.; Latorref; D. O.; & Ramirez-Martinez; A. M. (2020). Diseño para la adaptación e instrumentación de una maquina de remo a ser usada en sujetos con lesion medular. Journal de Ciencia e Ingenieria; 12(1).
+[Read the publication](https://doi.org/10.46571/jci.2020.1.6)
