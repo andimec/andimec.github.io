@@ -11,4 +11,4 @@ citation: "A. Sabogal et al. MuVacAS: Experimental Setup for Testing Mitigation 
 
 This record is the 2025 preprint version of the later journal article published in *Fusion Engineering and Design*.
 
-[SSRN preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5153014)
+[Read the SSRN preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5153014)
