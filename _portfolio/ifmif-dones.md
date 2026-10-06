@@ -60,9 +60,9 @@ This approach is particularly important for accelerator systems, where vacuum pe
 
 ## Publications related to this work
 
-- **Design status of the vacuum system of IFMIF-DONES particle accelerator**, *Vacuum*, 234, 114091, 2025. [DOI](https://doi.org/10.1016/j.vacuum.2025.114091)
-- **Overview and current status of the IFMIF-DONES accelerator systems**, *Nuclear Fusion*, 65, 2025. [DOI](https://doi.org/10.1088/1741-4326/ADE267)
-- **MuVacAS: Experimental setup for testing mitigation strategies against Loss of Vacuum Accidents in the IFMIF-DONES accelerator**, *Fusion Engineering and Design*, 222, 2026. [DOI](https://doi.org/10.1016/j.fusengdes.2025.115473)
-- **AI-Based Control of Differential Vacuum in the MuVacAS Prototype for IFMIF-DONES Particle Accelerator**, *EPJ Research Infrastructures*, 10, 33, 2026. [DOI](https://doi.org/10.1007/s41781-026-00186-3)
+- **Design status of the vacuum system of IFMIF-DONES particle accelerator**, *Vacuum*, 234, 114091, 2025. [Read article](https://doi.org/10.1016/j.vacuum.2025.114091)
+- **Overview and current status of the IFMIF-DONES accelerator systems**, *Nuclear Fusion*, 65, 2025. [Read article](https://doi.org/10.1088/1741-4326/ADE267)
+- **MuVacAS: Experimental setup for testing mitigation strategies against Loss of Vacuum Accidents in the IFMIF-DONES accelerator**, *Fusion Engineering and Design*, 222, 2026. [Read article](https://doi.org/10.1016/j.fusengdes.2025.115473)
+- **AI-Based Control of Differential Vacuum in the MuVacAS Prototype for IFMIF-DONES Particle Accelerator**, *EPJ Research Infrastructures*, 10, 33, 2026. [Read article](https://doi.org/10.1007/s41781-026-00186-3)
 
 > The project description deliberately concentrates on public engineering and research information and does not disclose sensitive operational or security-related details.
