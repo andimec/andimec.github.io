@@ -1,9 +1,10 @@
 ---
 layout: archive
-title: ""
+title: "Publications & Research Outputs"
 description: "Research publications and technical outputs by Anderson Sabogal in vacuum engineering, accelerator technology, fusion, safety, experimental systems and intelligent control."
 permalink: /publications/
 author_profile: true
+hide_archive_title: true
 ---
 
 # Publications & Research Outputs
