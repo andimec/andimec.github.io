@@ -13,9 +13,4 @@ The work investigates the optimisation of material-selection parameters for the 
 
 [Download PDF](/files/Optimization.pdf)
 
-<details>
-<summary><strong>Read the paper in the browser</strong></summary>
-
-<iframe src="/files/Optimization.pdf" width="100%" height="800px" style="border: 1px solid #ddd;" title="Tricone drill bit material-selection paper"></iframe>
-
-</details>
+<iframe class="embedded-pdf" src="/files/Optimization.pdf" width="100%" height="800px" style="border: 1px solid #ddd;" title="Tricone drill bit material-selection paper" loading="lazy"></iframe>
