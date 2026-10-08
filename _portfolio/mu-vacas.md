@@ -2,6 +2,7 @@
 title: "MuVacAS. Experimental Vacuum Accident Facility"
 excerpt: "Experimental platform for studying vacuum-loss accident scenarios, pressure transients and mitigation strategies relevant to IFMIF-DONES."
 collection: portfolio
+date: 2022-02-02
 permalink: /portfolio/muvacas/
 header:
   teaser: /images/muvacas.png
