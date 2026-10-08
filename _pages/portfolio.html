@@ -2,7 +2,7 @@
 title: "Research & Engineering"
 description: "Selected engineering and research projects in fusion, particle accelerators, vacuum technology, safety, controls, simulation and experimental R&D."
 permalink: /portfolio/
-author_profile: false
+author_profile: true
 ---
 
 <div class="section-intro">
@@ -10,7 +10,9 @@ author_profile: false
 </div>
 
 <div class="portfolio-grid">
-{% for post in site.portfolio %}
+{% assign projects_sorted = site.portfolio | sort: "date" | reverse %}
+{% for post in projects_sorted %}
+  {% unless post.hidden %}
   <article class="portfolio-card">
     {% if post.header.teaser %}
       <a href="{{ post.url }}" class="portfolio-card__image"><img src="{{ post.header.teaser }}" alt="{{ post.title | escape }}" loading="lazy"></a>
@@ -22,5 +24,6 @@ author_profile: false
       <a href="{{ post.url }}" class="portfolio-card__link">View project →</a>
     </div>
   </article>
+  {% endunless %}
 {% endfor %}
 </div>
