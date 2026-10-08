@@ -3,7 +3,7 @@ title: "LIPAc / Injector. International Accelerator Engineering"
 excerpt: "ECR ion-source R&D, injector control systems, operational experience and technical knowledge transfer within the LIPAc accelerator in Japan."
 collection: portfolio
 permalink: /portfolio/lipac-injector/
-date: 2025-02-01
+portfolio_date: 2025-02-01
 ---
 
 ## Project at a glance
