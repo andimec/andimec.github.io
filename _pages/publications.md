@@ -6,8 +6,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-# Publications & Research Outputs
-
 My research and engineering work spans **vacuum systems, accelerator technology, fusion engineering, safety, experimental validation, controls and data-driven modelling**.
 
 The list below combines peer-reviewed journal articles, conference papers, submitted manuscripts, preprints and selected technical research outputs. Where a public document is available, the original PDF or publication record is linked directly.

@@ -31,4 +31,6 @@ Several concepts were evaluated. After multiple iterations, the **pad-slip conce
 
 The final concept was developed as a complete mechanical assembly for subsequent engineering evaluation.
 
-<iframe width="100%" height="500px" src="https://www.youtube.com/embed/c9thE3Tj4RA" title="Linear motor test-system concept" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div class="embedded-video">
+  <iframe src="https://www.youtube.com/embed/c9thE3Tj4RA" title="Linear motor test-system concept" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
