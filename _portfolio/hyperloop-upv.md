@@ -2,7 +2,7 @@
 title: "Hyperloop UPV. Technical Direction & Mechanical Design"
 excerpt: "Mechanical engineering, prototype development and technical leadership in the SpaceX Hyperloop Pod Competition."
 collection: portfolio
-date: 2017-09-01
+portfolio_date: 2017-09-01
 permalink: /portfolio/hyperloop-upv/
 redirect_from:
   - /portfolio/portfolio-9/
