@@ -2,6 +2,7 @@
 title: "Zeleros. Experimental Mechanical Engineering"
 excerpt: "R&D mechanical engineering for advanced magnetic propulsion, precision test infrastructure and experimental validation."
 collection: portfolio
+date: 2019-09-01
 permalink: /portfolio/zeleros/
 redirect_from:
   - /portfolio/portfolio-7/
