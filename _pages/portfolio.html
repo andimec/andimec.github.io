@@ -10,7 +10,7 @@ author_profile: true
 </div>
 
 <div class="portfolio-grid">
-{% assign projects_sorted = site.portfolio | sort: "date" | reverse %}
+{% assign projects_sorted = site.portfolio | sort: "portfolio_date" | reverse %}
 {% for post in projects_sorted %}
   {% unless post.hidden %}
   <article class="portfolio-card">
