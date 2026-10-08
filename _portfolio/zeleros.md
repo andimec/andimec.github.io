@@ -67,12 +67,7 @@ The developed test infrastructure enabled controlled characterization of the thr
 
 [Download PDF](/files/ValidationLinearMotor.pdf)
 
-<details>
-<summary><strong>Read the paper in the browser</strong></summary>
-
-<iframe src="/files/ValidationLinearMotor.pdf" width="100%" height="850px" style="border: 1px solid #ddd;" title="Validation of a Linear Motor paper"></iframe>
-
-</details>
+<iframe class="embedded-pdf" src="/files/ValidationLinearMotor.pdf" width="100%" height="850px" style="border: 1px solid #ddd;" title="Validation of a Linear Motor paper" loading="lazy"></iframe>
 
 ## Outcome
 
