@@ -48,7 +48,7 @@ Authors: Tomoya Akagi, Anderson Sabogal, Pau Gonzalez, Christophe Vermare, Fabio
 
 The manuscript describes beam tests using a new magnetic-field configuration for the LIPAc ECR ion source, with the objective of reducing erosion of the BN disk and improving long-term operational stability.
 
-[Read the manuscript record](#pasj-2026-manuscript)
+[Read the manuscript record](/publication/lipac-ion-source-lifetime-pasj-2026/)
 
 ## Controls and digital engineering
 
