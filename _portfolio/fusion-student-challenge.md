@@ -45,12 +45,7 @@ The first practical activity was the conceptual design and construction of a Far
 
 [Download the public project document](/files/1st_Fusion_Student_Challenge_Public.pdf)
 
-<details>
-<summary><strong>Read the project document in the browser</strong></summary>
-
-<iframe src="/files/1st_Fusion_Student_Challenge_Public.pdf" width="100%" height="850px" style="border: 1px solid #ddd;" title="Fusion Student Challenge document"></iframe>
-
-</details>
+<iframe class="embedded-pdf" src="/files/1st_Fusion_Student_Challenge_Public.pdf" width="100%" height="850px" style="border: 1px solid #ddd;" title="Fusion Student Challenge document" loading="lazy"></iframe>
 
 ## Outcome
 
