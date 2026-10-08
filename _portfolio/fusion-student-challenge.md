@@ -2,6 +2,7 @@
 title: "Fusion Student Challenge. Engineering Education & Hands-on Fusion"
 excerpt: "A student-led initiative connecting engineering education with practical fusion technology through design, experimentation and hands-on projects."
 collection: portfolio
+date: 2016-01-01
 permalink: /portfolio/fusion-student-challenge/
 redirect_from:
   - /portfolio/portfolio-5/
