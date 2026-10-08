@@ -262,3 +262,20 @@
     gap: 0.25em;
   }
 }
+
+
+/* Embedded technical documents */
+.embedded-pdf {
+  display: block;
+  width: 100%;
+  min-height: 850px;
+  margin: 1.5rem 0;
+  border: 1px solid $border-color;
+  background: #fff;
+}
+
+@media (max-width: $medium) {
+  .embedded-pdf {
+    min-height: 650px;
+  }
+}
