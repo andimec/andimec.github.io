@@ -13,9 +13,4 @@ The paper presents a static test bench for characterising a linear motor designe
 
 [Download PDF](/files/ValidationLinearMotor.pdf)
 
-<details>
-<summary><strong>Read the paper in the browser</strong></summary>
-
-<iframe src="/files/ValidationLinearMotor.pdf" width="100%" height="800px" style="border: 1px solid #ddd;" title="Linear motor validation paper"></iframe>
-
-</details>
+<iframe class="embedded-pdf" src="/files/ValidationLinearMotor.pdf" width="100%" height="800px" style="border: 1px solid #ddd;" title="Linear motor validation paper" loading="lazy"></iframe>
