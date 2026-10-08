@@ -59,11 +59,6 @@ These figures are useful examples of how technical design decisions can be evalu
 
 [Download the detailed design report](/files/JUAS_magnet_Project.pdf)
 
-<details>
-<summary><strong>Read the detailed report in the browser</strong></summary>
-
-<iframe src="/files/JUAS_magnet_Project.pdf" width="100%" height="850px" style="border: 1px solid #ddd;" title="JUAS dipole magnet design report"></iframe>
-
-</details>
+<iframe class="embedded-pdf" src="/files/JUAS_magnet_Project.pdf" width="100%" height="850px" style="border: 1px solid #ddd;" title="JUAS dipole magnet design report" loading="lazy"></iframe>
 
 The report contains the detailed calculations, requirements, simulation results, fabrication considerations and cost estimation.
