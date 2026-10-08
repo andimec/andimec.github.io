@@ -84,7 +84,7 @@ The following material is publicly available and is included here as technical d
 ## Related research
 
 - [MuVacAS publications](/publications/)
-- [Controls, EPICS & Digital Engineering](/portfolio/controls-digital-engineering/)
+- [LIPAc / Injector. International Accelerator Engineering](/portfolio/lipac-injector/)
 - [IFMIF-DONES. Accelerator Vacuum & Safety Engineering](/portfolio/ifmif-dones/)
 
 > This page focuses on publicly available engineering information. Detailed operational or security-sensitive configuration data is intentionally excluded.
