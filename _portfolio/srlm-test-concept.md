@@ -2,7 +2,7 @@
 title: "Linear Motor. Conceptual Test System for High-Speed Testing"
 excerpt: "Conceptual mechanical design of a test system for high-speed testing of a synchronous reluctance linear motor."
 collection: portfolio
-date: 2019-01-01
+portfolio_date: 2019-01-01
 permalink: /portfolio/srlm-test-concept/
 header:
   teaser: /images/conceptualdesignSRLM.png
