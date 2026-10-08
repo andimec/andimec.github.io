@@ -2,7 +2,7 @@
 title: "JUAS. Dipole Magnet Design for MedAustron MEBT"
 excerpt: "Detailed engineering design of a dipole magnet for the MedAustron proton-therapy accelerator as part of the JUAS accelerator-technology course."
 collection: portfolio
-date: 2023-02-01
+portfolio_date: 2023-02-01
 permalink: /portfolio/juas-dipole-magnet/
 redirect_from:
   - /portfolio/portfolio-6/
