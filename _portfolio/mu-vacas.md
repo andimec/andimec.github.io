@@ -75,12 +75,7 @@ The following material is publicly available and is included here as technical d
 
 [Download PDF](/files/THPA156.pdf)
 
-<details>
-<summary><strong>Read the paper in the browser</strong></summary>
-
-<iframe src="/files/THPA156.pdf" width="100%" height="850px" style="border: 1px solid #ddd;" title="MuVacAS IPAC 2023 paper"></iframe>
-
-</details>
+<iframe class="embedded-pdf" src="/files/THPA156.pdf" width="100%" height="850px" style="border: 1px solid #ddd;" title="MuVacAS IPAC 2023 paper" loading="lazy"></iframe>
 
 ## Related research
 
