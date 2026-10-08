@@ -2,6 +2,7 @@
 title: "IFMIF-DONES. Accelerator Vacuum & Safety Engineering"
 excerpt: "Engineering research for accelerator vacuum systems, safety, instrumentation and experimental validation within the IFMIF-DONES fusion research infrastructure."
 collection: portfolio
+portfolio_date: 2022-02-01
 permalink: /portfolio/ifmif-dones/
 header:
   teaser: /images/VacuumComponents.jpg

@@ -2,6 +2,7 @@
 title: "Hyperloop UPV. Technical Direction & Mechanical Design"
 excerpt: "Mechanical engineering, prototype development and technical leadership in the SpaceX Hyperloop Pod Competition."
 collection: portfolio
+portfolio_date: 2017-09-01
 permalink: /portfolio/hyperloop-upv/
 redirect_from:
   - /portfolio/portfolio-9/
@@ -61,12 +62,7 @@ The project also produced a detailed design document for the vehicle braking sys
 
 [Download technical document](/files/CIMM2019.pdf)
 
-<details>
-<summary><strong>Read the document in the browser</strong></summary>
-
-<iframe src="/files/CIMM2019.pdf" width="100%" height="850px" style="border: 1px solid #ddd;" title="Hyperloop UPV braking system document"></iframe>
-
-</details>
+<iframe class="embedded-pdf" src="/files/CIMM2019.pdf" width="100%" height="850px" style="border: 1px solid #ddd;" title="Hyperloop UPV braking system document" loading="lazy"></iframe>
 
 ## Outcome
 

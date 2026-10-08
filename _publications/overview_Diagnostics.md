@@ -13,9 +13,4 @@ This work presents an overview of the integration strategy for diagnostics and i
 
 [Download PDF](/files/overview_Diagnostics.pdf)
 
-<details>
-<summary><strong>Read the paper in the browser</strong></summary>
-
-<iframe src="/files/overview_Diagnostics.pdf" width="100%" height="800px" style="border: 1px solid #ddd;" title="IFMIF-DONES diagnostics paper"></iframe>
-
-</details>
+<iframe class="embedded-pdf" src="/files/overview_Diagnostics.pdf" width="100%" height="800px" style="border: 1px solid #ddd;" title="IFMIF-DONES diagnostics paper" loading="lazy"></iframe>

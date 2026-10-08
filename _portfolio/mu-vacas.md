@@ -2,6 +2,7 @@
 title: "MuVacAS. Experimental Vacuum Accident Facility"
 excerpt: "Experimental platform for studying vacuum-loss accident scenarios, pressure transients and mitigation strategies relevant to IFMIF-DONES."
 collection: portfolio
+portfolio_date: 2022-02-02
 permalink: /portfolio/muvacas/
 header:
   teaser: /images/muvacas.png
@@ -74,17 +75,12 @@ The following material is publicly available and is included here as technical d
 
 [Download PDF](/files/THPA156.pdf)
 
-<details>
-<summary><strong>Read the paper in the browser</strong></summary>
-
-<iframe src="/files/THPA156.pdf" width="100%" height="850px" style="border: 1px solid #ddd;" title="MuVacAS IPAC 2023 paper"></iframe>
-
-</details>
+<iframe class="embedded-pdf" src="/files/THPA156.pdf" width="100%" height="850px" style="border: 1px solid #ddd;" title="MuVacAS IPAC 2023 paper" loading="lazy"></iframe>
 
 ## Related research
 
 - [MuVacAS publications](/publications/)
-- [Controls, EPICS & Digital Engineering](/portfolio/controls-digital-engineering/)
+- [LIPAc / Injector. International Accelerator Engineering](/portfolio/lipac-injector/)
 - [IFMIF-DONES. Accelerator Vacuum & Safety Engineering](/portfolio/ifmif-dones/)
 
 > This page focuses on publicly available engineering information. Detailed operational or security-sensitive configuration data is intentionally excluded.

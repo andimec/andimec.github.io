@@ -2,6 +2,7 @@
 title: "Fusion Student Challenge. Engineering Education & Hands-on Fusion"
 excerpt: "A student-led initiative connecting engineering education with practical fusion technology through design, experimentation and hands-on projects."
 collection: portfolio
+portfolio_date: 2016-01-01
 permalink: /portfolio/fusion-student-challenge/
 redirect_from:
   - /portfolio/portfolio-5/
@@ -44,12 +45,7 @@ The first practical activity was the conceptual design and construction of a Far
 
 [Download the public project document](/files/1st_Fusion_Student_Challenge_Public.pdf)
 
-<details>
-<summary><strong>Read the project document in the browser</strong></summary>
-
-<iframe src="/files/1st_Fusion_Student_Challenge_Public.pdf" width="100%" height="850px" style="border: 1px solid #ddd;" title="Fusion Student Challenge document"></iframe>
-
-</details>
+<iframe class="embedded-pdf" src="/files/1st_Fusion_Student_Challenge_Public.pdf" width="100%" height="850px" style="border: 1px solid #ddd;" title="Fusion Student Challenge document" loading="lazy"></iframe>
 
 ## Outcome
 

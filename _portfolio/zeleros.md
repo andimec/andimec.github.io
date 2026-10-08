@@ -2,6 +2,7 @@
 title: "Zeleros. Experimental Mechanical Engineering"
 excerpt: "R&D mechanical engineering for advanced magnetic propulsion, precision test infrastructure and experimental validation."
 collection: portfolio
+portfolio_date: 2019-09-01
 permalink: /portfolio/zeleros/
 redirect_from:
   - /portfolio/portfolio-7/
@@ -66,12 +67,7 @@ The developed test infrastructure enabled controlled characterization of the thr
 
 [Download PDF](/files/ValidationLinearMotor.pdf)
 
-<details>
-<summary><strong>Read the paper in the browser</strong></summary>
-
-<iframe src="/files/ValidationLinearMotor.pdf" width="100%" height="850px" style="border: 1px solid #ddd;" title="Validation of a Linear Motor paper"></iframe>
-
-</details>
+<iframe class="embedded-pdf" src="/files/ValidationLinearMotor.pdf" width="100%" height="850px" style="border: 1px solid #ddd;" title="Validation of a Linear Motor paper" loading="lazy"></iframe>
 
 ## Outcome
 
